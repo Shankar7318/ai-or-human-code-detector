@@ -47,7 +47,7 @@ Built using **Streamlit**, trained on **1,500 labeled samples**, and designed fo
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/Shankar7318/ai-or-human-code-detector.git
 cd human-ai-code-detection
 ```
 ### 2️⃣ Create a virtual environment
@@ -92,3 +92,4 @@ Browser extension support
 
 Historical trend analytics
 ```
+
